@@ -5,7 +5,7 @@ public class Stacking {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//아래부터 쌓고 위에서 부터 꺼냄
+		//아래부터 쌓고 위에서 부터 꺼냄 LIFO (Last In First Out)
 		
 		Stack<Integer> stack = new Stack<>();
 		
