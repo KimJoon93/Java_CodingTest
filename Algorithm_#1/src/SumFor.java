@@ -1,6 +1,14 @@
 import java.util.Scanner;
 
 public class SumFor {
+	
+	static int sumfor(int n) {
+		
+		int sums= n*(n+1)/2;
+		
+		return sums;
+	}
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -22,6 +30,8 @@ public class SumFor {
 		System.out.println(sum);
 		
 		System.out.println("sum2의 값: " + sum2);
+		
+		System.out.println("sumfor 값: " + sumfor(n));
 	}
 
 }
