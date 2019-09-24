@@ -52,7 +52,7 @@ public class Start3 {
 		
 		System.out.println("Min3 값: " + min3(10,2,4));
 		
-		System.out.println("Min4 값: " + min4(10,2,4,6));
+		System.out.println("Min4 값: " + min4(10,2,4,5));
 	}
 
 }
