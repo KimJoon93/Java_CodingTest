@@ -22,9 +22,16 @@ public class Multiply {
 				la.add(nums);
 				
 				
-//				k++;
-//				nums = nums * (j+k);
-//				la.add(nums);
+				la.add(j*(j+1)*(j+2));
+	
+				
+				la.add(j*(j+1)*(j+2)*(j+3));
+				
+				
+				la.add(j*(j+1)*(j+2)*(j+3)*(j+4));
+				
+				
+				la.add(j*(j+1)*(j+2)*(j+3)*(j+4)*(j+5));
 			}
 			
 		}
