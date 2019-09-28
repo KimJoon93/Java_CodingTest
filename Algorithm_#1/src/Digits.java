@@ -14,7 +14,7 @@ public class Digits {
 			System.out.print("입력: ");
 			no = sc.nextInt();
 			
-		}while(no<10 || no>99);
+		}while(!(no>=10 && no <=99));
 		
 		System.out.println("변수값은 "+no+"가 되었습니다.");
 		
