@@ -30,7 +30,7 @@ public class Stacking {
 		System.out.println(stack.pop());
 		
 		//오류 발생 EmptyStack Exception
-		System.out.println(stack.pop());
+//		System.out.println(stack.pop());
 		
 		
 		
