@@ -37,10 +37,7 @@ public class Number2 {
 				for(int j=0; i<NFQ.size(); j++) {
 					if(NFQ.get(j) == FQ.get(j)) {
 						IndexNFQ.add(1);
-					}
-					
-					
-					
+					}					
 				}
 				
 				
